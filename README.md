@@ -4,7 +4,7 @@ This is a simple Twitter-style web project built with **HTML**, **CSS**, and **J
 
 ## 📸 Screenshot
 
-![Preview](imagenes/Captura de pantalla 2025-04-19 160058.png)
+![Preview](imagenes/Captura%20de%20pantalla%202025-04-19%20160058.png)
 
 ## 🚀 Features
 
