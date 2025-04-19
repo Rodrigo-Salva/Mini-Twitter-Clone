@@ -6,7 +6,6 @@ This is a simple Twitter-style web project built with **HTML**, **CSS**, and **J
 
 ![Preview](imagenes/Captura de pantalla 2025-04-19 160058.png)
 
-
 ## 🚀 Features
 
 - ✍️ Post new tweets
